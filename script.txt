@@ -1,0 +1,10 @@
+cos'e un algoritmo?
+    l'algoritmo e una ricetta, definisce chiaramente gli ingredienti(input)
+cos'e una variabile?
+    sono dei contenitori di cui metteremo dei dati.
+
+underline e null hanno lo stesso significato?
+
+    Generazione di risposte per te in corso…
+    undefined viene impiegato per rappresentare il fatto che una variabile non
+    è stata dichiarata.

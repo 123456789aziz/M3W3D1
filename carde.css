@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+
+.contenitore{
+display: flex;
+ justify-content: center;
+ background-color:white;
+ height: 600px;
+ width: 445px;
+ 
+}
+
+
+
+.dentro-contenitore{
+    display: flex;
+    background-image: url(immagini/Copia\ di\ Copia\ di\ 825716941387441.png);
+    background-repeat: no-repeat;
+    width:100%;
+    background-size: cover;
+    flex-direction: column;
+    
+}
+
+
+span{
+    background-color: red;
+    padding: 20px;
+    border-radius: 20px;
+}
+.item1 .item2 .item3{
+
+
+
+}
+h1{
+    text-align: end;
+    padding: 20px;
+    margin: 40px ;
+    margin-left: auto;
+    border-radius: 40px;
+    background-color: brown;
+ }
+.box{display: flex;
+    width: 100%;
+   justify-content: space-around;
+    align-items:self-end;
+    height: 80%;
+    gap:30px;
+}

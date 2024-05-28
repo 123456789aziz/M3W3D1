@@ -1,0 +1,80 @@
+body{
+    color: black;
+    min-width: 50%;
+    margin: 10px 0px;
+    font-size: 14px;
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+img{
+    width: 32vh;
+    margin:16px auto ;
+}
+
+#simply{ 
+    display: flex;
+    flex-direction: column;
+}
+
+.primo{
+    style="background-color:#ffffea ; 
+    margin: 0PX; 
+    padding: 20PX;"
+}
+#contenuto {
+    text-align: center;
+    margin:60px 300px 0px 300px;
+    
+}
+#sotto-img{
+    background-color: white;
+}
+h2 {
+    font-size: 25px;
+    text-align: left;
+    margin: 17px 0px 27px 0px;
+    font-weight: 100;
+}
+h1 {
+    margin: 19px 0px 30px;
+    font-size: 23px;
+}
+ul,ol{
+    text-align: left;
+    font-size: 18px;
+    margin: 0px 0px 16px;
+}
+li {
+    margin: 10px;
+    font-size: 16px;
+}
+#fondo{
+    text-align: left;
+    font-size: 18px;
+    margin: 10px 0px 10px 50px;
+}
+hr {
+    margin: 15px 0px 50px 10px;
+                        color:#d6e6ff 
+}
+.grassetto{
+    font-weight: bold;
+}
+.link{
+   color:#0d9e8a ; 
+}
+.mangia{
+                width:   600px;
+                    min-width: 50px;
+                    max-width: 600px;
+
+                    padding: 2px;
+                    margin: 0px;
+                    border-radius: 15PX;
+                    box-shadow: 5PX 5PX 5PX rgb(225, 225, 221);
+}
+.foto{
+    box-shadow: 5px 0px 5px ;
+    border: rgb(36, 35, 3);
+}
